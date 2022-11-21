@@ -7,7 +7,7 @@
     * a little bit about yourself
     * your skill set list
 
-#### Google Drive Link To ```Porfolio site image```
+#### Google Drive Link To ```Porfolio Site Screenshot```
 [Click Here](https://drive.google.com/file/d/1JdbTS_SvNrI1Fwn5akhL54Xg-wiAWWeb/view?usp=sharing)
 
 #### Project By:
