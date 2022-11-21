@@ -1,9 +1,9 @@
 * {
-
     box-sizing: border-box;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 .main_body {
     border: 2px solid linear-gradient(to right, rgb(135, 206, 250), rgb(255, 105, 180));
@@ -23,12 +23,13 @@
     width: 1rem;
     border: 1px solid purple;
     border-radius: 100%;
-    background:rgb(226, 197, 212);
+    background: rgb(226, 197, 212);
     margin-right: 7px;
 }
 
 
-.profile_image, .image_div {
+.profile_image,
+.image_div {
     width: 10rem;
     height: 11rem;
     border-radius: 5px;
@@ -44,7 +45,7 @@
 }
 
 .profile_name {
-    margin-right: 40rem;
+    margin-right: 43rem;
 }
 
 .right-nav a,
@@ -80,15 +81,17 @@ ul {
 
 .image_div {
     border: 2px solid linear-gradient(to right, rgb(135, 206, 250), rgb(255, 105, 180));
-    background: linear-gradient(to right bottom, rgb(225,225,225) ,rgb(135, 206, 250), rgb(255, 105, 180));
+    background: linear-gradient(to right bottom, rgb(225, 225, 225), rgb(135, 206, 250), rgb(255, 105, 180));
 }
+
 .intro {
     padding-left: 40px;
 }
 
-.career-list{
+.career-list {
     position: relative;
 }
+
 .career_div {
     clear: left;
 }
@@ -109,10 +112,9 @@ ul {
     position: absolute;
     left: 40rem;
     bottom: 4.1rem;
-    
+
 }
 
 p {
     width: 500px;
 }
-

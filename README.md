@@ -1,13 +1,14 @@
 # CSS Portfolio Project (Module 5)
 
-create a portfolio site for self; a reference is attached below indicating your
+## Project Brief
+-[x] create a ```portfolio``` site for self; indicating your
+    * an image of yourself or anything you prefer
+    * a statement / an introduction
+    * a little bit about yourself
+    * your skill set list
 
-an image of yourself or anything you prefer
-a statement / an introduction
-a little bit about yourself
-your skill set list
+#### Google Drive Link To ```Porfolio site image```
+[Click Here](https://drive.google.com/file/d/1JdbTS_SvNrI1Fwn5akhL54Xg-wiAWWeb/view?usp=sharing)
 
-
-take a screenshot of your portfolio in the browser: how to screenshot
-attach the screenshot to your citrone submission and submit the link to the repository
-Note: you get full grade for both the screenshot and code. If you don’t know how to attach document on citrone ask.
+#### Project By:
+[Aduragbemi Oduntan](https://github.com/Salemori)
